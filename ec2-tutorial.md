@@ -1,4 +1,4 @@
-# Amazon EC2 Tutorial for Beginners
+# Amazon EC2 Tutorial
 
 ## What is it?
 Amazon Elastic Compute Cloud (**EC2**) is a cloud computing service provided by Amazon Web Services (AWS) that allows users to rent virtual servers (called **instances**) on demand. These instances can run applications, host websites, process data, or perform any computational task, with the ability to scale resources up or down as needed.
